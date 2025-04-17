@@ -1,9 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on a mysterious side project that involves way too many tabs.<br>👯 I’m looking to collaborate on anything fun, weird, or slightly chaotic.<br>🤝 I’m looking for help with fixing my sleep schedule<br>🌱 I’m currently learning 3d modeling and three.js<br>💬 Ask me about books, gym, nature, computers.<br>⚡ Fun fact: 𝓘 𝓵𝓸𝓿𝓮 𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬𝓼.
 
+## 🔗 Links  
+📄 [View my resume](https://docs.google.com/document/d/1V99LOgv1BPQfZY_gJiOWAK2ve7y6ZFAX/edit?usp=sharing)  
+🌐 [View my website](https://nemoabu.github.io/personalweb/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullokh-tulkinov-b24477287/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tabdullokh@gmail.com)[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://docs.google.com/document/d/1V99LOgv1BPQfZY_gJiOWAK2ve7y6ZFAX/edit?usp=sharing&ouid=109195232447070090823&rtpof=true&sd=true)
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullokh-tulkinov-b24477287/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tabdullokh@gmail.com)
 
 
 # 💻 Tech Stack:

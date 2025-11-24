@@ -2,9 +2,9 @@
 🔭 I’m currently working on a mysterious side project that involves way too many tabs.<br>🤝 I’m looking for help with fixing my sleep schedule<br>🌱 I’m currently learning 3d modeling and three.js<br>💬 Ask me about books, gym, nature, computers.<br>⚡ Fun fact: 𝓘 𝓵𝓸𝓿𝓮 𝓪𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬𝓼.
 
 ## 🔗 Links  
-[📄 Developer Resume](https://abuu.ca/about/abdullokhtulkinovtechnical.pdf) |
-[🎨 Designer Resume](https://abuu.ca/about/abdullokhtulkinovcreative.pdf) |
-[🌐 Website](https://abuu.ca)
+[Developer/Technical Resume](https://abuu.ca/about/abdullokhtulkinovtechnical.pdf) |
+[Designer/Creative Resume](https://abuu.ca/about/abdullokhtulkinovcreative.pdf) |
+[Website](https://abuu.ca)
 
 
 
